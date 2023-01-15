@@ -12,7 +12,7 @@ export const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/nadimul-haque-00204951/",
       style: "rounded-tr-md",
     },
     {
